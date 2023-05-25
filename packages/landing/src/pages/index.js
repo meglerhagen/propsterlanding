@@ -26,7 +26,7 @@ const WebApp = () => {
     <ThemeProvider theme={theme}>
       <>
         <Head>
-          <title>Web App | A next js landing page</title>
+          <title>Propster - X</title>
           <meta name="Description" content="React next landing page" />
           <meta name="theme-color" content="#2563FF" />
           <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700" rel="stylesheet" />
@@ -55,7 +55,7 @@ const WebApp = () => {
             <Counter />
             <Testimonials />
             <Pricing />
-            <CustomerSupport />
+            {/* <CustomerSupport /> */}
             <Blog />
             <CallToAction />
             <Footer />

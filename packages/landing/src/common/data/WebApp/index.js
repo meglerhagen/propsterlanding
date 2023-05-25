@@ -71,9 +71,9 @@ import testimonial2 from 'common/assets/image/webApp/testimonials-1-2.png';
 import testimonial3 from 'common/assets/image/webApp/testimonials-1-3.png';
 import testimonialBlockImage from 'common/assets/image/webApp/testimonials-block-image.png';
 export const BANNER_DATA = {
-  title: 'Ultimate web app to monitor your customer support track',
+  title: 'Ultimate web app for property investment profitability',
   text:
-    'There will be a day–in our lifetime–when we get to celebrate every person on the planet having access. Moment Pro is the best software platform to collect reviews.',
+    'In a world where smart investing can mean the difference between just getting by and achieving financial freedom, Propster is your key to unlocking the full potential of rental property investments.',
   tagline: '*No Credit card required',
   button: {
     label: 'Try it for free',
@@ -88,9 +88,9 @@ export const BANNER_DATA = {
 
 export const FEATURE_DATA = {
   blockTitle: {
-    title: 'Choose dashboard for every stage of your customer journey',
+    title: 'Evaluate, Calculate, and Grow Your Rental Portfolio',
     text:
-      "The rise of mobile devices transforms the way we consume information entirely and the world's most relevant channels such as Facebook and Instagram are almost exclusively used on mobile",
+      "Our platform is dedicated to empowering you to make informed decisions about your rental properties. With Propster, you can quickly calculate the profitability of potential investments, save and export these calculations, and stay ahead of the game.",
   },
   post: [
     {
@@ -117,34 +117,34 @@ export const FEATURE_DATA = {
 };
 
 export const VIDEO_DATA = {
-  title: 'Meet Amelia, Lead Software Engineer',
-  videoID: 'hW98BFnVCm8',
+  title: 'Meet Morten, Daglig Leder',
+  videoID: 'ScMzIvxBSi4',
 };
 
 export const SERVICE_DATA = [
   {
-    icon: service1,
-    title: 'Analysis & Development',
+    icon: service2,
+    title: 'Rental Calculator Tool',
     text:
-      'We enjoy office retreats and visit famous places of our country and abroad also! We have planned to extend our business.',
+      'Our user-friendly rental calculator tool provides detailed insights into the profitability of rental properties. Quickly calculate potential returns and make confident investment decisions.',
   },
   {
-    icon: service2,
-    title: 'User experience & Performance',
+    icon: service1,
+    title: 'Financial Dashboard',
     text:
-      'We enjoy office retreats and visit famous places of our country and abroad also! We have planned to extend our business.',
+      'Maintain full control over your financial status with our comprehensive dashboard. Monitor the performance of your properties, track your income and expenses, and forecast your financial future.',
   },
   {
     icon: service3,
-    title: 'Clean & Editable Environment',
+    title: 'Building Management Page',
     text:
-      'We enjoy office retreats and visit famous places of our country and abroad also! We have planned to extend our business.',
+      'Manage your property portfolio effectively with our dedicated building page. Keep track of each building separately, and monitor maintenance, rental income, and expenses.',
   },
   {
     icon: service4,
-    title: 'Optimized & User Friendly',
+    title: 'Access to Market Data',
     text:
-      'We enjoy office retreats and visit famous places of our country and abroad also! We have planned to extend our business.',
+      'Get access to updated market data for specific areas. Stay up-to-date on rental prices, property values, and market trends to make informed investment decisions.',
   },
 ];
 
@@ -175,22 +175,22 @@ export const COMPANY_DATA = {
 export const SECURE_DASHBOARD_DATA = {
   sectionImage: secureImage,
   blockTitle: {
-    title: 'Most Promising & Secure Dashboard with tracking user referral code',
+    title: 'Unleash the Full Potential of Your Rental Portfolio with Propster',
     text:
-      'Pick one of our stock themes, or create your custom theme with the most advanced theme editor on any online survey building tool.',
+      'Streamline, Analyze, and Thrive: Propel Your Rental Portfolio to New Heights with Propsters Innovative Tools and Expert Insights',
   },
   posts: [
     {
       icon: secure1,
-      title: 'Fast & Instant Transfer',
+      title: 'User-friendly Rental Calculator',
       text:
-        'We’re driven beyond just finishing the projects. We want to find solutions.',
+        'Accurately Evaluate Profitability and Potential Returns',
     },
     {
       icon: secure2,
-      title: 'File Management System',
+      title: 'Financial Dashboard',
       text:
-        'We’re driven beyond just finishing the projects. We want to find solutions.',
+        'Gain Real-Time Insights into Your Rental Portfolios Performance',
     },
   ],
 };
@@ -198,9 +198,9 @@ export const SECURE_DASHBOARD_DATA = {
 export const COUNTER_DATA = {
   blockTitle: {
     title:
-      'Take your user monitoring experience to new ultimate level with file tracking',
+      'Revolutionize Your Property Investment Strategy with Prospter',
     text:
-      'Pick one of our stock themes, or create your custom theme with the most advanced theme editor on any online survey building tool. It is built to perform and run fast on all of the latest mobile devices. Build out-of the box blazing fast apps with a small footprint and built-in best practices like hardware accelerated transitions, touch-optimized gestures, pre rendering, and AOT compiling.',
+      'Harness the power of our advanced rental calculator tool and financial dashboard to optimize your real estate portfolio. Propster is designed to work efficiently on all modern mobile devices, providing you with quick access to your investment data wherever you are',
     button: {
       link: '#',
       label: 'Discover more',
@@ -209,26 +209,26 @@ export const COUNTER_DATA = {
   posts: [
     {
       count: '80',
-      title: 'Up to',
-      text: 'Customer Response',
+      title: 'Opp til',
+      text: 'Økning i lønnsomhet',
       symbol: '%',
     },
     {
-      count: '99',
-      title: 'Consistent',
-      text: 'Performance Score',
+      count: '98',
+      title: 'Fornøyde kunder',
+      text: 'Brukertilfredshet',
       symbol: '%',
     },
     {
-      count: '3.5',
-      title: 'Down to',
-      text: 'Response Time',
-      symbol: 'S',
+      count: '5',
+      title: 'Ned til',
+      text: 'Beregningstid',
+      symbol: 'Min',
     },
     {
       count: '5x',
-      title: 'Up to',
-      text: 'Faster then others',
+      title: 'Opp til',
+      text: 'Raskere enn andre',
       symbol: '',
     },
   ],
@@ -241,23 +241,23 @@ export const TESTIMONIALS_DATA = {
     {
       image: testimonial1,
       text:
-        'OMG! I cannot believe that I have got a brand new landing page after getting this template we are able to use our most used e-commerce template with modern and trending design.',
-      name: 'Mariana Dickey',
-      designation: 'UI Designer',
+        'Fantastisk! Jeg kan ikke tro at jeg har full kontroll over eiendomsporteføljen min med Propster. Med deres detaljerte leie kalkulator, er jeg i stand til å vurdere lønnsomheten av utleieeiendommene mine med en moderne og effektiv design.',
+      name: 'Ola Normann',
+      designation: 'Eiendomsinvestor',
     },
     {
       image: testimonial2,
       text:
-        'OMG! I cannot believe that I have got a brand new landing page after getting this template we are able to use our most used e-commerce template with modern and trending design.',
-      name: 'Jonathan Taylor',
-      designation: 'CEO at Creativex',
+        'Utrolig! Med Propster har jeg fått en helt ny oversikt over investeringene mine. Takket være deres omfattende finansielle dashbord, kan jeg nå bruke mine mest brukte eiendomsstyringsverktøy med et moderne og trendende design.',
+      name: 'Ola Normann',
+      designation: 'CEO i RealEstateX',
     },
     {
       image: testimonial3,
       text:
-        'OMG! I cannot believe that I have got a brand new landing page after getting this template we are able to use our most used e-commerce template with modern and trending design.',
-      name: 'Krish Kendall',
-      designation: 'Creative Director',
+        'Wow! Jeg kan ikke tro at jeg har fått så mye innsikt i utleieeiendomsmarkedet med Propster. Med deres markedsdata har jeg kunnet bruke mine mest brukte investeringsstrategier med et moderne og trendende design.',
+      name: 'Ola Normann',
+      designation: 'Kreativ Direktør',
     },
   ],
 };
@@ -265,57 +265,57 @@ export const TESTIMONIALS_DATA = {
 export const MONTHLY_PRICING_DATA = [
   {
     recommended: false,
-    title: 'Lite',
-    price: 'Free',
-    tagline: 'with restrictions',
-    planLabel: 'Plan includes:',
+    title: 'Basis',
+    price: '299kr',
+    tagline: 'med begrensninger',
+    planLabel: 'Planen inkluderer:',
     options: [
       {
-        text: 'Manage conversations directly from your websites optimization.',
+        text: 'Beregne lønnsomhet for opptil 5 eiendommer.',
       },
       {
-        text: 'Unlimited links',
+        text: 'Standard finansiell dashboard.',
       },
       {
-        text: 'Chat promt supported',
+        text: 'Tilgang til basis markedsdata.',
       },
       {
-        text: 'Optimzed hashtags',
+        text: 'Tilgang til basis markedsdata.',
       },
       {
-        text: 'Own analytics platform',
+        text: 'Tilgang til basis markedsdata.',
       },
     ],
     button: {
-      label: 'Start 14 days of free trial',
+      label: 'Start 14 dagers gratis prøveperiode',
       link: '#',
     },
   },
   {
     recommended: true,
     title: 'Pro',
-    price: '$15.93',
-    tagline: 'Monthly',
-    planLabel: 'Plan includes:',
+    price: '449kr',
+    tagline: 'Månedlig',
+    planLabel: 'Planen inkluderer:',
     options: [
       {
-        text: 'Manage conversations directly from your websites optimization.',
+        text: 'Ubegrenset beregning av lønnsomhet for eiendommer.',
       },
       {
-        text: 'Unlimited links',
+        text: 'Utvidet finansiell dashboard.',
       },
       {
-        text: 'Chat promt supported',
+        text: 'Tilgang til detaljert markedsdata.',
       },
       {
-        text: 'Optimzed hashtags',
+        text: 'Separat bygningsside for hver eiendom.',
       },
       {
-        text: 'Own analytics platform',
+        text: 'Prioritert kundestøtte.',
       },
     ],
     button: {
-      label: 'Start 14 days of free trial',
+      label: 'Start 14 dagers gratis prøveperiode',
       link: '#',
     },
   },
@@ -324,57 +324,57 @@ export const MONTHLY_PRICING_DATA = [
 export const YEARLY_PRICING_DATA = [
   {
     recommended: false,
-    title: 'Lite',
-    price: 'Free',
-    tagline: 'with restrictions',
-    planLabel: 'Plan includes:',
+    title: 'Basis',
+    price: '199kr',
+    tagline: 'med begrensninger',
+    planLabel: 'Planen inkluderer:',
     options: [
       {
-        text: 'Manage conversations directly from your websites optimization.',
+        text: 'Beregne lønnsomhet for opptil 5 eiendommer.',
       },
       {
-        text: 'Unlimited links',
+        text: 'Standard finansiell dashboard.',
       },
       {
-        text: 'Chat promt supported',
+        text: 'Tilgang til basis markedsdata.',
       },
       {
-        text: 'Optimzed hashtags',
+        text: 'Tilgang til basis markedsdata.',
       },
       {
-        text: 'Own analytics platform',
+        text: 'Tilgang til basis markedsdata.',
       },
     ],
     button: {
-      label: 'Start 14 days of free trial',
+      label: 'Start 14 dagers gratis prøveperiode',
       link: '#',
     },
   },
   {
     recommended: true,
     title: 'Pro',
-    price: '$99.93',
-    tagline: 'Yearly',
-    planLabel: 'Plan includes:',
+    price: '3199kr',
+    tagline: 'Årlig',
+    planLabel: 'Planen inkluderer:',
     options: [
       {
-        text: 'Manage conversations directly from your websites optimization.',
+        text: 'Ubegrenset beregning av lønnsomhet for eiendommer.',
       },
       {
-        text: 'Unlimited links',
+        text: 'Utvidet finansiell dashboard.',
       },
       {
-        text: 'Chat promt supported',
+        text: 'Tilgang til detaljert markedsdata.',
       },
       {
-        text: 'Optimzed hashtags',
+        text: 'Separat bygningsside for hver eiendom.',
       },
       {
-        text: 'Own analytics platform',
+        text: 'Prioritert kundestøtte.',
       },
     ],
     button: {
-      label: 'Start 14 days of free trial',
+      label: 'Start 14 dagers gratis prøveperiode',
       link: '#',
     },
   },
@@ -412,7 +412,7 @@ export const CUSTOMER_SUPPORT_DATA = {
 export const BLOG_DATA = {
   blockText: {
     title: 'What our author post on Newsfeed',
-    text: 'Build an incredible workplace and grow your business with Gusto',
+    text: 'Build an incredible workplace and grow your business with Propster',
   },
   posts: [
     {

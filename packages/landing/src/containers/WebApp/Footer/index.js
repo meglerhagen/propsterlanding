@@ -13,14 +13,9 @@ const Footer = () => {
     <FooterArea>
       <Container>
         <Box className="logoBox">
-          <Link href="/webapp">
-            <a className="logo">
-              <Image src={logo} alt="logo footer" />
-            </a>
-          </Link>
           <Text as="p" content={`Copyright © ${new Date().getFullYear()}`} />
           <Link href="/">
-            <a className="footerLink">RedQ, Inc.</a>
+            <a className="footerLink">CodeNord</a>
           </Link>
         </Box>
         <Box className="menu">
