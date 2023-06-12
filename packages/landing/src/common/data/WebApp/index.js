@@ -74,9 +74,9 @@ export const BANNER_DATA = {
   title:
     "Det ultimate verktøyet for å ha oversikt over alle nøkkeltall i eiendomsporteføljen",
   text: "I en investeringsverden vil alle parameterne som bygger opp porteføljen din vil svinge. Porteføljekalkulatoren vår vil la deg ha full kontroll og muligheten til å modelere dagens nøkkeltall samt svingninger som vil påvirke eiendomsporteføljen din i fremtiden",
-  tagline: "*No Credit card required",
+  tagline: "*Ingen kort påkrevd",
   button: {
-    label: "Try it for free",
+    label: "Prøv gratis nå",
     link: "#",
   },
   image: [
