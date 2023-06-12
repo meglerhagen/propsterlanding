@@ -1,83 +1,83 @@
 export const MENU_ITEMS = [
   {
-    label: 'Home',
-    path: '#banner_section',
-    offset: '70',
+    label: "Home",
+    path: "#banner_section",
+    offset: "70",
   },
   {
-    label: 'Feature',
-    path: '#feature_section',
-    offset: '70',
+    label: "Feature",
+    path: "#feature_section",
+    offset: "70",
   },
   {
-    label: 'Service',
-    path: '#service_section',
-    offset: '70',
+    label: "Service",
+    path: "#service_section",
+    offset: "70",
   },
   {
-    label: 'Dashboard',
-    path: '#dashboard_section',
-    offset: '70',
+    label: "Dashboard",
+    path: "#dashboard_section",
+    offset: "70",
   },
   {
-    label: 'Pricing',
-    path: '#pricing_section',
-    offset: '70',
+    label: "Pricing",
+    path: "#pricing_section",
+    offset: "70",
   },
   {
-    label: 'Blog',
-    path: '#blog_section',
-    offset: '70',
+    label: "Blog",
+    path: "#blog_section",
+    offset: "70",
   },
 ];
 
-import banner1 from 'common/assets/image/webApp/banner-1.png';
-import blog1 from 'common/assets/image/webApp/blog-1.jpg';
-import blog2 from 'common/assets/image/webApp/blog-2.jpg';
-import blog3 from 'common/assets/image/webApp/blog-3.jpg';
-import company1 from 'common/assets/image/webApp/brand-1-1.png';
-import company2 from 'common/assets/image/webApp/brand-1-2.png';
-import company3 from 'common/assets/image/webApp/brand-1-3.png';
-import company4 from 'common/assets/image/webApp/brand-1-4.png';
-import company5 from 'common/assets/image/webApp/brand-1-5.png';
-import company6 from 'common/assets/image/webApp/brand-1-6.png';
-import bubbleImage1 from 'common/assets/image/webApp/call-bubble-1.svg';
-import bubbleImage2 from 'common/assets/image/webApp/call-bubble-2.svg';
-import bubbleImage3 from 'common/assets/image/webApp/call-bubble-3.svg';
-import bubbleImage4 from 'common/assets/image/webApp/call-bubble-4.svg';
-import bubbleImage5 from 'common/assets/image/webApp/call-bubble-5.svg';
-import bubbleImage6 from 'common/assets/image/webApp/call-bubble-6.svg';
-import bubbleImage7 from 'common/assets/image/webApp/call-bubble-7.svg';
-import customerSupportImageShape from 'common/assets/image/webApp/customer-support-shape.svg';
-import customerSupportImage from 'common/assets/image/webApp/customer-support.png';
-import feature1 from 'common/assets/image/webApp/feature-1.png';
-import feature2 from 'common/assets/image/webApp/feature-2.png';
-import feature3 from 'common/assets/image/webApp/feature-3.png';
-import feature4 from 'common/assets/image/webApp/feature-4.png';
-import feature5 from 'common/assets/image/webApp/feature-5.png';
-import footerDribble from 'common/assets/image/webApp/footer-dribble.svg';
-import footerFacebook from 'common/assets/image/webApp/footer-facebook.svg';
-import footerTwitter from 'common/assets/image/webApp/footer-twitter.svg';
-import footerLogo from 'common/assets/image/webApp/logo-dark.svg';
-import secure2 from 'common/assets/image/webApp/secure-1.png';
-import secure1 from 'common/assets/image/webApp/secure-2.png';
-import secureImage from 'common/assets/image/webApp/secure-dashboard.png';
-import service1 from 'common/assets/image/webApp/service-1.png';
-import service2 from 'common/assets/image/webApp/service-2.png';
-import service3 from 'common/assets/image/webApp/service-3.png';
-import service4 from 'common/assets/image/webApp/service-4.png';
-import testimonial1 from 'common/assets/image/webApp/testimonials-1-1.png';
-import testimonial2 from 'common/assets/image/webApp/testimonials-1-2.png';
-import testimonial3 from 'common/assets/image/webApp/testimonials-1-3.png';
-import testimonialBlockImage from 'common/assets/image/webApp/testimonials-block-image.png';
+import banner1 from "common/assets/image/webApp/banner-1.png";
+import blog1 from "common/assets/image/webApp/blog-1.jpg";
+import blog2 from "common/assets/image/webApp/blog-2.jpg";
+import blog3 from "common/assets/image/webApp/blog-3.jpg";
+import company1 from "common/assets/image/webApp/brand-1-1.png";
+import company2 from "common/assets/image/webApp/brand-1-2.png";
+import company3 from "common/assets/image/webApp/brand-1-3.png";
+import company4 from "common/assets/image/webApp/brand-1-4.png";
+import company5 from "common/assets/image/webApp/brand-1-5.png";
+import company6 from "common/assets/image/webApp/brand-1-6.png";
+import bubbleImage1 from "common/assets/image/webApp/call-bubble-1.svg";
+import bubbleImage2 from "common/assets/image/webApp/call-bubble-2.svg";
+import bubbleImage3 from "common/assets/image/webApp/call-bubble-3.svg";
+import bubbleImage4 from "common/assets/image/webApp/call-bubble-4.svg";
+import bubbleImage5 from "common/assets/image/webApp/call-bubble-5.svg";
+import bubbleImage6 from "common/assets/image/webApp/call-bubble-6.svg";
+import bubbleImage7 from "common/assets/image/webApp/call-bubble-7.svg";
+import customerSupportImageShape from "common/assets/image/webApp/customer-support-shape.svg";
+import customerSupportImage from "common/assets/image/webApp/customer-support.png";
+import feature1 from "common/assets/image/webApp/feature-1.png";
+import feature2 from "common/assets/image/webApp/feature-2.png";
+import feature3 from "common/assets/image/webApp/feature-3.png";
+import feature4 from "common/assets/image/webApp/feature-4.png";
+import feature5 from "common/assets/image/webApp/feature-5.png";
+import footerDribble from "common/assets/image/webApp/footer-dribble.svg";
+import footerFacebook from "common/assets/image/webApp/footer-facebook.svg";
+import footerTwitter from "common/assets/image/webApp/footer-twitter.svg";
+import footerLogo from "common/assets/image/webApp/logo-dark.svg";
+import secure2 from "common/assets/image/webApp/secure-1.png";
+import secure1 from "common/assets/image/webApp/secure-2.png";
+import secureImage from "common/assets/image/webApp/secure-dashboard.png";
+import service1 from "common/assets/image/webApp/service-1.png";
+import service2 from "common/assets/image/webApp/service-2.png";
+import service3 from "common/assets/image/webApp/service-3.png";
+import service4 from "common/assets/image/webApp/service-4.png";
+import testimonial1 from "common/assets/image/webApp/testimonials-1-1.png";
+import testimonial2 from "common/assets/image/webApp/testimonials-1-2.png";
+import testimonial3 from "common/assets/image/webApp/testimonials-1-3.png";
+import testimonialBlockImage from "common/assets/image/webApp/testimonials-block-image.png";
 export const BANNER_DATA = {
-  title: 'Ultimate web app for property investment profitability',
-  text:
-    'In a world where smart investing can mean the difference between just getting by and achieving financial freedom, Propster is your key to unlocking the full potential of rental property investments.',
-  tagline: '*No Credit card required',
+  title:
+    "Det ultimate verktøyet for å ha oversikt over alle nøkkeltall i eiendomsporteføljen",
+  text: "I en investeringsverden vil alle parameterne som bygger opp porteføljen din vil svinge. Porteføljekalkulatoren vår vil la deg ha full kontroll og muligheten til å modelere dagens nøkkeltall samt svingninger som vil påvirke eiendomsporteføljen din i fremtiden",
+  tagline: "*No Credit card required",
   button: {
-    label: 'Try it for free',
-    link: '#',
+    label: "Try it for free",
+    link: "#",
   },
   image: [
     {
@@ -88,68 +88,63 @@ export const BANNER_DATA = {
 
 export const FEATURE_DATA = {
   blockTitle: {
-    title: 'Evaluate, Calculate, and Grow Your Rental Portfolio',
-    text:
-      "Our platform is dedicated to empowering you to make informed decisions about your rental properties. With Propster, you can quickly calculate the profitability of potential investments, save and export these calculations, and stay ahead of the game.",
+    title: "Evaluer, Modeler, og ta kontroll på dataene for eiendommene dine",
+    text: "Plattformen vår er laget av oss for å ta bort all usikkerheten når markedet svinger, inflasjonen øker, rentene stiger, og egenkapitalen beveger på seg. Med propster kan du raskt putte inn dataene for eiendommene dine og porteføljen, og få ut alle relevante nøkkeltall. Dataene ligger trygt lagret i skyen, og du kan eksportere dem til en oversiktlig PDF for å for eksempel kommunisere med banken eller andre investorer. Målet er å ta bort all usikkerhet, og ligge foran i løypa.",
   },
   post: [
     {
       icon: feature1,
-      text: 'Fast Performance',
+      text: "Umiddelbar oversik over kontantstrømmen din",
     },
     {
       icon: feature2,
-      text: 'User Customization',
+      text: "Eiendomsoversikten",
     },
     {
       icon: feature3,
-      text: 'Modify structure',
+      text: "Dynamisk oppdatering av alle nøkkeltall ved ulike fremtidsutsikter",
     },
     {
       icon: feature4,
-      text: 'Customer Analysis',
+      text: "Utskrift til PDF for videreformidling av porteføljedata",
     },
     {
       icon: feature5,
-      text: 'Instant Support',
+      text: "Instant Support",
     },
   ],
 };
 
 export const VIDEO_DATA = {
-  title: 'Meet Morten, Daglig Leder',
-  videoID: 'ScMzIvxBSi4',
+  title: "Møt Morten, Daglig Leder",
+  videoID: "ScMzIvxBSi4",
 };
 
 export const SERVICE_DATA = [
   {
     icon: service2,
-    title: 'Rental Calculator Tool',
-    text:
-      'Our user-friendly rental calculator tool provides detailed insights into the profitability of rental properties. Quickly calculate potential returns and make confident investment decisions.',
+    title: "Umiddelbar oversik over kontantstrømmen din",
+    text: "En eiendomsportefølje er bygget opp av en lang rekke kontantstrømmer som flyter inn og ut av porteføljen. Dette verktøyet er utviklet av oss fordi det ikke fantes noe som kunne gi oss denne tryggheten i tallene. Du vil raskt få full oversikt over eiendomsporteføljen din så enkelt som mulig.",
   },
   {
     icon: service1,
-    title: 'Financial Dashboard',
-    text:
-      'Maintain full control over your financial status with our comprehensive dashboard. Monitor the performance of your properties, track your income and expenses, and forecast your financial future.',
+    title: "PDF Utskrift",
+    text: "Å ha full kontroll på tallene dine, være realistisk i kalkylene, og formidle det klart og tydelig er det viktigste for å forstå porteføljen din. Hvis du skal samarbeide med andre partnere eller banker vil det bli betydelig enklere å kommunisere. Her vil du også kunne modelere inn usikkerhet ved tallene dine, både på oppsiden og nedsiden. Det vil være lett for deg og banken å se hvordan endring i rammevilkår vil slå ut.",
   },
   {
     icon: service3,
-    title: 'Building Management Page',
-    text:
-      'Manage your property portfolio effectively with our dedicated building page. Keep track of each building separately, and monitor maintenance, rental income, and expenses.',
+    title: "Eiendomsoversikten",
+    text: "I eiendomsoversikten vil du lagre alle relevante tall for porteføljen din. Her har du også muligheten til å lagre info om leietakere for å forenkle forvaltningen av leieforholdene dine.",
   },
   {
     icon: service4,
-    title: 'Access to Market Data',
-    text:
-      'Get access to updated market data for specific areas. Stay up-to-date on rental prices, property values, and market trends to make informed investment decisions.',
+    title: "Dynamisk oppdatering av alle nøkkeltall ved ulike fremtidsutsikter",
+    text: "Fordi et tastetrykk vil oppdatere hele oversikten kan du selv modelere en rekke ulike utfall for å stressteste porteføljen din. Det er enkelt å modelere en worst case og hvordan dette slår inn på for eksempel kontantstrømmer, betjeningsevne eller egenkapitalen i porteføljen.",
   },
 ];
 
 export const COMPANY_DATA = {
-  title: 'Companies who worked with us proudly',
+  title: "Companies who worked with us proudly",
   images: [
     {
       src: company1,
@@ -175,89 +170,81 @@ export const COMPANY_DATA = {
 export const SECURE_DASHBOARD_DATA = {
   sectionImage: secureImage,
   blockTitle: {
-    title: 'Unleash the Full Potential of Your Rental Portfolio with Propster',
-    text:
-      'Streamline, Analyze, and Thrive: Propel Your Rental Portfolio to New Heights with Propsters Innovative Tools and Expert Insights',
+    title: "Unleash the Full Potential of Your Rental Portfolio with Propster",
+    text: "Streamline, Analyze, and Thrive: Propel Your Rental Portfolio to New Heights with Propsters Innovative Tools and Expert Insights",
   },
   posts: [
     {
       icon: secure1,
-      title: 'User-friendly Rental Calculator',
-      text:
-        'Accurately Evaluate Profitability and Potential Returns',
+      title: "User-friendly Rental Calculator",
+      text: "Accurately Evaluate Profitability and Potential Returns",
     },
     {
       icon: secure2,
-      title: 'Financial Dashboard',
-      text:
-        'Gain Real-Time Insights into Your Rental Portfolios Performance',
+      title: "Financial Dashboard",
+      text: "Gain Real-Time Insights into Your Rental Portfolios Performance",
     },
   ],
 };
 
 export const COUNTER_DATA = {
   blockTitle: {
-    title:
-      'Revolutionize Your Property Investment Strategy with Prospter',
-    text:
-      'Harness the power of our advanced rental calculator tool and financial dashboard to optimize your real estate portfolio. Propster is designed to work efficiently on all modern mobile devices, providing you with quick access to your investment data wherever you are',
+    title: "Revolutionize Your Property Investment Strategy with Prospter",
+    text: "Harness the power of our advanced rental calculator tool and financial dashboard to optimize your real estate portfolio. Propster is designed to work efficiently on all modern mobile devices, providing you with quick access to your investment data wherever you are",
     button: {
-      link: '#',
-      label: 'Discover more',
+      link: "#",
+      label: "Discover more",
     },
   },
   posts: [
     {
-      count: '80',
-      title: 'Opp til',
-      text: 'Økning i lønnsomhet',
-      symbol: '%',
+      count: "80",
+      title: "Opp til",
+      text: "Økning i lønnsomhet",
+      symbol: "%",
     },
     {
-      count: '98',
-      title: 'Fornøyde kunder',
-      text: 'Brukertilfredshet',
-      symbol: '%',
+      count: "98",
+      title: "Fornøyde kunder",
+      text: "Brukertilfredshet",
+      symbol: "%",
     },
     {
-      count: '5',
-      title: 'Ned til',
-      text: 'Beregningstid',
-      symbol: 'Min',
+      count: "5",
+      title: "Ned til",
+      text: "Beregningstid",
+      symbol: "Min",
     },
     {
-      count: '5x',
-      title: 'Opp til',
-      text: 'Raskere enn andre',
-      symbol: '',
+      count: "5x",
+      title: "Opp til",
+      text: "Raskere enn andre",
+      symbol: "",
     },
   ],
 };
 
 export const TESTIMONIALS_DATA = {
   blockImage: testimonialBlockImage,
-  title: 'What people say about our product',
+  title: "What people say about our product",
   posts: [
     {
       image: testimonial1,
-      text:
-        'Fantastisk! Jeg kan ikke tro at jeg har full kontroll over eiendomsporteføljen min med Propster. Med deres detaljerte leie kalkulator, er jeg i stand til å vurdere lønnsomheten av utleieeiendommene mine med en moderne og effektiv design.',
-      name: 'Ola Normann',
-      designation: 'Eiendomsinvestor',
+      text: "Fantastisk! Jeg kan ikke tro at jeg har full kontroll over eiendomsporteføljen min med Propster. Med deres detaljerte leie kalkulator, er jeg i stand til å vurdere lønnsomheten av utleieeiendommene mine med en moderne og effektiv design.",
+      name: "Ola Normann",
+      designation: "Eiendomsinvestor",
     },
     {
       image: testimonial2,
-      text:
-        'Utrolig! Med Propster har jeg fått en helt ny oversikt over investeringene mine. Takket være deres omfattende finansielle dashbord, kan jeg nå bruke mine mest brukte eiendomsstyringsverktøy med et moderne og trendende design.',
-      name: 'Ola Normann',
-      designation: 'CEO i RealEstateX',
+      text: "Utrolig! Med Propster har jeg fått en helt ny oversikt over investeringene mine. Takket være deres omfattende finansielle dashbord, kan jeg nå bruke mine mest brukte eiendomsstyringsverktøy med et moderne og trendende design.",
+      name: "Ola Normann",
+      designation: "CEO i RealEstateX",
     },
     {
       image: testimonial3,
-      text:
-        'Wow! Jeg kan ikke tro at jeg har fått så mye innsikt i utleieeiendomsmarkedet med Propster. Med deres markedsdata har jeg kunnet bruke mine mest brukte investeringsstrategier med et moderne og trendende design.',
-      name: 'Ola Normann',
-      designation: 'Kreativ Direktør',
+      text: "Wow! Jeg kan ikke tro at jeg har fått så mye innsikt i utleieeiendomsmarkedet med Propster. Med deres markedsdata har jeg kunnet bruke mine mest brukte investeringsstrategier med et moderne og trendende design.",
+      name: "Ola Normann",
+      designation: "Kreativ Direktør",
     },
   ],
 };
@@ -265,58 +252,58 @@ export const TESTIMONIALS_DATA = {
 export const MONTHLY_PRICING_DATA = [
   {
     recommended: false,
-    title: 'Basis',
-    price: '299kr',
-    tagline: 'med begrensninger',
-    planLabel: 'Planen inkluderer:',
+    title: "Basis",
+    price: "299kr",
+    tagline: "med begrensninger",
+    planLabel: "Planen inkluderer:",
     options: [
       {
-        text: 'Beregne lønnsomhet for opptil 5 eiendommer.',
+        text: "Beregne lønnsomhet for opptil 5 eiendommer.",
       },
       {
-        text: 'Standard finansiell dashboard.',
+        text: "Standard finansiell dashboard.",
       },
       {
-        text: 'Tilgang til basis markedsdata.',
+        text: "Tilgang til basis markedsdata.",
       },
       {
-        text: 'Tilgang til basis markedsdata.',
+        text: "Tilgang til basis markedsdata.",
       },
       {
-        text: 'Tilgang til basis markedsdata.',
+        text: "Tilgang til basis markedsdata.",
       },
     ],
     button: {
-      label: 'Start 14 dagers gratis prøveperiode',
-      link: '#',
+      label: "Start 14 dagers gratis prøveperiode",
+      link: "#",
     },
   },
   {
     recommended: true,
-    title: 'Pro',
-    price: '449kr',
-    tagline: 'Månedlig',
-    planLabel: 'Planen inkluderer:',
+    title: "Pro",
+    price: "449kr",
+    tagline: "Månedlig",
+    planLabel: "Planen inkluderer:",
     options: [
       {
-        text: 'Ubegrenset beregning av lønnsomhet for eiendommer.',
+        text: "Ubegrenset beregning av lønnsomhet for eiendommer.",
       },
       {
-        text: 'Utvidet finansiell dashboard.',
+        text: "Utvidet finansiell dashboard.",
       },
       {
-        text: 'Tilgang til detaljert markedsdata.',
+        text: "Tilgang til detaljert markedsdata.",
       },
       {
-        text: 'Separat bygningsside for hver eiendom.',
+        text: "Separat bygningsside for hver eiendom.",
       },
       {
-        text: 'Prioritert kundestøtte.',
+        text: "Prioritert kundestøtte.",
       },
     ],
     button: {
-      label: 'Start 14 dagers gratis prøveperiode',
-      link: '#',
+      label: "Start 14 dagers gratis prøveperiode",
+      link: "#",
     },
   },
 ];
@@ -324,58 +311,58 @@ export const MONTHLY_PRICING_DATA = [
 export const YEARLY_PRICING_DATA = [
   {
     recommended: false,
-    title: 'Basis',
-    price: '199kr',
-    tagline: 'med begrensninger',
-    planLabel: 'Planen inkluderer:',
+    title: "Basis",
+    price: "199kr",
+    tagline: "med begrensninger",
+    planLabel: "Planen inkluderer:",
     options: [
       {
-        text: 'Beregne lønnsomhet for opptil 5 eiendommer.',
+        text: "Beregne lønnsomhet for opptil 5 eiendommer.",
       },
       {
-        text: 'Standard finansiell dashboard.',
+        text: "Standard finansiell dashboard.",
       },
       {
-        text: 'Tilgang til basis markedsdata.',
+        text: "Tilgang til basis markedsdata.",
       },
       {
-        text: 'Tilgang til basis markedsdata.',
+        text: "Tilgang til basis markedsdata.",
       },
       {
-        text: 'Tilgang til basis markedsdata.',
+        text: "Tilgang til basis markedsdata.",
       },
     ],
     button: {
-      label: 'Start 14 dagers gratis prøveperiode',
-      link: '#',
+      label: "Start 14 dagers gratis prøveperiode",
+      link: "#",
     },
   },
   {
     recommended: true,
-    title: 'Pro',
-    price: '3199kr',
-    tagline: 'Årlig',
-    planLabel: 'Planen inkluderer:',
+    title: "Pro",
+    price: "3199kr",
+    tagline: "Årlig",
+    planLabel: "Planen inkluderer:",
     options: [
       {
-        text: 'Ubegrenset beregning av lønnsomhet for eiendommer.',
+        text: "Ubegrenset beregning av lønnsomhet for eiendommer.",
       },
       {
-        text: 'Utvidet finansiell dashboard.',
+        text: "Utvidet finansiell dashboard.",
       },
       {
-        text: 'Tilgang til detaljert markedsdata.',
+        text: "Tilgang til detaljert markedsdata.",
       },
       {
-        text: 'Separat bygningsside for hver eiendom.',
+        text: "Separat bygningsside for hver eiendom.",
       },
       {
-        text: 'Prioritert kundestøtte.',
+        text: "Prioritert kundestøtte.",
       },
     ],
     button: {
-      label: 'Start 14 dagers gratis prøveperiode',
-      link: '#',
+      label: "Start 14 dagers gratis prøveperiode",
+      link: "#",
     },
   },
 ];
@@ -383,74 +370,73 @@ export const YEARLY_PRICING_DATA = [
 export const CUSTOMER_SUPPORT_DATA = {
   image: customerSupportImage,
   shapeImage: customerSupportImageShape,
-  title: 'Meet our Superheros who works dedicatedly with customer support',
+  title: "Meet our Superheros who works dedicatedly with customer support",
   options: [
     {
-      label: 'Gift-giving social network – emotional vs transactional',
+      label: "Gift-giving social network – emotional vs transactional",
     },
     {
       label:
-        'Use gifts and consumer groups relationships to drive traffic to your business',
+        "Use gifts and consumer groups relationships to drive traffic to your business",
     },
     {
       label:
-        'Significantly underserved gift-card and e-gifting industry in Mexico and Latin America',
+        "Significantly underserved gift-card and e-gifting industry in Mexico and Latin America",
     },
     {
-      label: 'Social currency',
+      label: "Social currency",
     },
     {
-      label: '20 second gifting process',
+      label: "20 second gifting process",
     },
   ],
   button: {
-    link: '#',
-    label: 'Learn More',
+    link: "#",
+    label: "Learn More",
   },
 };
 
 export const BLOG_DATA = {
   blockText: {
-    title: 'What our author post on Newsfeed',
-    text: 'Build an incredible workplace and grow your business with Propster',
+    title: "What our author post on Newsfeed",
+    text: "Build an incredible workplace and grow your business with Propster",
   },
   posts: [
     {
       image: blog1,
       title:
-        'The 3 Fundamental Rules to Keep Your user Website Goal Orientated',
+        "The 3 Fundamental Rules to Keep Your user Website Goal Orientated",
       link: {
-        label: 'Learn more',
-        path: '#',
+        label: "Learn more",
+        path: "#",
       },
     },
     {
       image: blog2,
-      title: 'Why the Best Websites Focus on Their first Conversion Funnel',
+      title: "Why the Best Websites Focus on Their first Conversion Funnel",
       link: {
-        label: 'Learn more',
-        path: '#',
+        label: "Learn more",
+        path: "#",
       },
     },
     {
       image: blog3,
       title:
-        'Acquire More Leads Through Your Website By Switching Perspectives',
+        "Acquire More Leads Through Your Website By Switching Perspectives",
       link: {
-        label: 'Learn more',
-        path: '#',
+        label: "Learn more",
+        path: "#",
       },
     },
   ],
 };
 
 export const CALL_TO_ACTION_DATA = {
-  title: 'More than 20+ Integrations',
-  text:
-    'Pick one of our stock themes, or create your custom theme with the most advanced theme editor on any online survey building tool. It is built to perform and run fast on all of the latest mobile devices.',
+  title: "More than 20+ Integrations",
+  text: "Pick one of our stock themes, or create your custom theme with the most advanced theme editor on any online survey building tool. It is built to perform and run fast on all of the latest mobile devices.",
   button: {
-    link: '#',
-    label: 'View all Integrations',
+    link: "#",
+    label: "View all Integrations",
   },
   bubbleIcon: [
     {
@@ -477,39 +463,38 @@ export const CALL_TO_ACTION_DATA = {
   ],
 };
 
-
 export const FOOTER_DATA = {
   logo: footerLogo,
   menu: [
     {
-      link: '#',
-      label: 'Support',
+      link: "#",
+      label: "Support",
     },
     {
-      link: '#',
-      label: 'About Us',
+      link: "#",
+      label: "About Us",
     },
     {
-      link: '#',
-      label: 'Privacy',
+      link: "#",
+      label: "Privacy",
     },
     {
-      link: '#',
-      label: 'Contact',
+      link: "#",
+      label: "Contact",
     },
   ],
   social: [
     {
       icon: footerFacebook,
-      link: '#',
+      link: "#",
     },
     {
       icon: footerTwitter,
-      link: '#',
+      link: "#",
     },
     {
       icon: footerDribble,
-      link: '#',
+      link: "#",
     },
   ],
 };
