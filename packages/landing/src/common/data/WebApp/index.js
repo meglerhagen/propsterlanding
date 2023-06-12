@@ -1,26 +1,26 @@
 export const MENU_ITEMS = [
   {
-    label: "Home",
+    label: "Hjem",
     path: "#banner_section",
     offset: "70",
   },
   {
-    label: "Feature",
+    label: "Funksjoner",
     path: "#feature_section",
     offset: "70",
   },
   {
-    label: "Service",
+    label: "Tjenester",
     path: "#service_section",
     offset: "70",
   },
   {
-    label: "Dashboard",
+    label: "Dashbord",
     path: "#dashboard_section",
     offset: "70",
   },
   {
-    label: "Pricing",
+    label: "Priser",
     path: "#pricing_section",
     offset: "70",
   },
@@ -77,7 +77,7 @@ export const BANNER_DATA = {
   tagline: "*Ingen kort påkrevd",
   button: {
     label: "Prøv gratis nå",
-    link: "#",
+    link: "https://app.utleieoversikten.no/register/",
   },
   image: [
     {
@@ -170,30 +170,30 @@ export const COMPANY_DATA = {
 export const SECURE_DASHBOARD_DATA = {
   sectionImage: secureImage,
   blockTitle: {
-    title: "Unleash the Full Potential of Your Rental Portfolio with Propster",
-    text: "Streamline, Analyze, and Thrive: Propel Your Rental Portfolio to New Heights with Propsters Innovative Tools and Expert Insights",
+    title: "Frigjør det fulle potensialet i din eiendomsportefølje med Utleieoversikten",
+    text: "Effektiviser, analyser og ta avgjørelser. Ta din eiendomsportefølje til nye høyder med Utleieoversikten",
   },
   posts: [
     {
       icon: secure1,
-      title: "User-friendly Rental Calculator",
-      text: "Accurately Evaluate Profitability and Potential Returns",
+      title: "Brukervennlig analyseverktøy",
+      text: "Evaluer lønnsomhet og potensielle invisteringer nøyaktig",
     },
     {
       icon: secure2,
-      title: "Financial Dashboard",
-      text: "Gain Real-Time Insights into Your Rental Portfolios Performance",
+      title: "Finansielt Dashboard",
+      text: "Få innsikt i sanntid i din eiendomsporteføljes prestasjon og ytelse",
     },
   ],
 };
 
 export const COUNTER_DATA = {
   blockTitle: {
-    title: "Revolutionize Your Property Investment Strategy with Prospter",
-    text: "Harness the power of our advanced rental calculator tool and financial dashboard to optimize your real estate portfolio. Propster is designed to work efficiently on all modern mobile devices, providing you with quick access to your investment data wherever you are",
+    title: "Revolusjoner din eiendomsinvesteringsstrategi med Utleieoversikten",
+    text: "Utnytt kraften i vårt avanserte utleiekalkulatorverktøy og finansielle dashbord for å optimalisere din eiendomsportefølje. Propster er designet for å fungere effektivt på alle moderne mobile enheter, og gir deg rask tilgang til dine investeringsdata hvor enn du er",
     button: {
       link: "#",
-      label: "Discover more",
+      label: "Oppdag mer",
     },
   },
   posts: [
@@ -275,7 +275,7 @@ export const MONTHLY_PRICING_DATA = [
     ],
     button: {
       label: "Start 14 dagers gratis prøveperiode",
-      link: "#",
+      link: "https://app.utleieoversikten.no/register/",
     },
   },
   {
@@ -303,7 +303,7 @@ export const MONTHLY_PRICING_DATA = [
     ],
     button: {
       label: "Start 14 dagers gratis prøveperiode",
-      link: "#",
+      link: "https://app.utleieoversikten.no/register/",
     },
   },
 ];
@@ -334,7 +334,7 @@ export const YEARLY_PRICING_DATA = [
     ],
     button: {
       label: "Start 14 dagers gratis prøveperiode",
-      link: "#",
+      link: "https://app.utleieoversikten.no/register/",
     },
   },
   {
@@ -362,7 +362,7 @@ export const YEARLY_PRICING_DATA = [
     ],
     button: {
       label: "Start 14 dagers gratis prøveperiode",
-      link: "#",
+      link: "https://app.utleieoversikten.no/register/",
     },
   },
 ];
@@ -398,33 +398,33 @@ export const CUSTOMER_SUPPORT_DATA = {
 
 export const BLOG_DATA = {
   blockText: {
-    title: "What our author post on Newsfeed",
-    text: "Build an incredible workplace and grow your business with Propster",
+    title: "Hva vi legger ut på vår nyhetsfeeden",
+    text: "Bygg en utrolig arbeidsplass og utvid din virksomhet med Utleieoversikten",
   },
   posts: [
     {
       image: blog1,
       title:
-        "The 3 Fundamental Rules to Keep Your user Website Goal Orientated",
+        "Bygg en utrolig arbeidsplass og utvid din virksomhet med Utleieoversikten",
       link: {
-        label: "Learn more",
+        label: "Les Mer",
         path: "#",
       },
     },
     {
       image: blog2,
-      title: "Why the Best Websites Focus on Their first Conversion Funnel",
+      title: "De 3 grunnleggende reglene for å holde din portefølje kapitalsterk",
       link: {
-        label: "Learn more",
+        label: "Les Mer",
         path: "#",
       },
     },
     {
       image: blog3,
       title:
-        "Acquire More Leads Through Your Website By Switching Perspectives",
+        "Skaff flere eiendommer gjennom ditt nettverk ved å bytte perspektiver",
       link: {
-        label: "Learn more",
+        label: "Les mer",
         path: "#",
       },
     },
@@ -432,11 +432,11 @@ export const BLOG_DATA = {
 };
 
 export const CALL_TO_ACTION_DATA = {
-  title: "More than 20+ Integrations",
-  text: "Pick one of our stock themes, or create your custom theme with the most advanced theme editor on any online survey building tool. It is built to perform and run fast on all of the latest mobile devices.",
+  title: "Mer enn 20+ integrasjoner",
+  text: "Vi har selvsagt valgt de mest populære integrasjonene, slik at du kan få mest mulig ut av Utleieoversikten.",
   button: {
     link: "#",
-    label: "View all Integrations",
+    label: "Se alle integrasjoner",
   },
   bubbleIcon: [
     {

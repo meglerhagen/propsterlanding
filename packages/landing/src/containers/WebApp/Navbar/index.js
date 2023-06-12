@@ -1,5 +1,5 @@
-import LogoImageStick from 'common/assets/image/webApp/header-logo-stick.svg';
-import LogoImage from 'common/assets/image/webApp/header-logo.svg';
+import LogoImageStick from 'common/assets/image/webApp/black_logo_transparent_background.png';
+import LogoImage from 'common/assets/image/webApp/black_logo_transparent_background.png';
 import Box from 'common/components/Box';
 import Button from 'common/components/Button';
 import Drawer from 'common/components/Drawer';
@@ -49,14 +49,14 @@ const Navbar = ({ navbarStyle, logoStyle, button, row, menuWrapper }) => {
               menuItems={MENU_ITEMS}
               offset={-70}
             />
-            <Link href="#">
+            <Link href="https://app.utleieoversikten.no/">
               <a className="navbar_button">
-                <Button {...button} title="Login Now" />
+                <Button {...button} title="Logg inn" />
               </a>
             </Link>
-            <Link href="#">
+            <Link href="https://app.utleieoversikten.no/register/">
               <a className="navbar_button_two">
-                <Button {...button} title="Join Free" />
+                <Button {...button} title="Registerer deg" />
               </a>
             </Link>
             <Drawer
