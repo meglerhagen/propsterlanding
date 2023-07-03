@@ -61,7 +61,7 @@ import footerTwitter from "common/assets/image/webApp/footer-twitter.svg";
 import footerLogo from "common/assets/image/webApp/logo-dark.svg";
 import secure2 from "common/assets/image/webApp/secure-1.png";
 import secure1 from "common/assets/image/webApp/secure-2.png";
-import secureImage from "common/assets/image/webApp/secure-dashboard.png";
+import secureImage from "common/assets/image/webApp/secure-dashboard.jpg"; //Switch to PNG if the other picutre
 import service1 from "common/assets/image/webApp/service-1.png";
 import service2 from "common/assets/image/webApp/service-2.png";
 import service3 from "common/assets/image/webApp/service-3.png";
@@ -472,15 +472,15 @@ export const FOOTER_DATA = {
     },
     {
       link: "#",
-      label: "About Us",
+      label: "Om oss",
     },
     {
       link: "#",
-      label: "Privacy",
+      label: "Personvern",
     },
     {
       link: "#",
-      label: "Contact",
+      label: "Kontakt oss",
     },
   ],
   social: [
