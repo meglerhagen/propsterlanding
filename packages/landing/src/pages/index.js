@@ -53,11 +53,11 @@ const WebApp = () => {
             <Clients />
             <SecureDashboard />
             <Counter />
-            <Testimonials />
-            <Pricing />
+            {/* <Testimonials />
+            <Pricing /> */}
             {/* <CustomerSupport /> */}
-            <Blog />
-            <CallToAction />
+            {/* <Blog />
+            <CallToAction /> */}
             <Footer />
           </ContentWrapper>
         </AppWrapper>

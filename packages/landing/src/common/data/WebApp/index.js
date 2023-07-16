@@ -19,16 +19,16 @@ export const MENU_ITEMS = [
     path: "#dashboard_section",
     offset: "70",
   },
-  {
-    label: "Priser",
-    path: "#pricing_section",
-    offset: "70",
-  },
-  {
-    label: "Blog",
-    path: "#blog_section",
-    offset: "70",
-  },
+  // {
+  //   label: "Priser",
+  //   path: "#pricing_section",
+  //   offset: "70",
+  // },
+  // {
+  //   label: "Blog",
+  //   path: "#blog_section",
+  //   offset: "70",
+  // },
 ];
 
 import banner1 from "common/assets/image/webApp/banner-1.png";
@@ -61,7 +61,8 @@ import footerTwitter from "common/assets/image/webApp/footer-twitter.svg";
 import footerLogo from "common/assets/image/webApp/logo-dark.svg";
 import secure2 from "common/assets/image/webApp/secure-1.png";
 import secure1 from "common/assets/image/webApp/secure-2.png";
-import secureImage from "common/assets/image/webApp/secure-dashboard.jpg"; //Switch to PNG if the other picutre
+import secureImage from "common/assets/image/webApp/secure-dashboard.png"; //Switch to PNG if the other picutre
+import secure2Image from "common/assets/image/webApp/dashboard2.jpg"
 import service1 from "common/assets/image/webApp/service-1.png";
 import service2 from "common/assets/image/webApp/service-2.png";
 import service3 from "common/assets/image/webApp/service-3.png";
@@ -89,7 +90,7 @@ export const BANNER_DATA = {
 export const FEATURE_DATA = {
   blockTitle: {
     title: "Evaluer, Modeler, og ta kontroll på dataene for eiendommene dine",
-    text: "Plattformen vår er laget av oss for å ta bort all usikkerheten når markedet svinger, inflasjonen øker, rentene stiger, og egenkapitalen beveger på seg. Med propster kan du raskt putte inn dataene for eiendommene dine og porteføljen, og få ut alle relevante nøkkeltall. Dataene ligger trygt lagret i skyen, og du kan eksportere dem til en oversiktlig PDF for å for eksempel kommunisere med banken eller andre investorer. Målet er å ta bort all usikkerhet, og ligge foran i løypa.",
+    text: "Plattformen vår er laget av oss for å ta bort all usikkerheten når markedet svinger, inflasjonen øker, rentene stiger, og egenkapitalen beveger på seg. Med Utleieoversikten kan du raskt putte inn dataene for eiendommene dine og porteføljen, og få ut alle relevante nøkkeltall. Dataene ligger trygt lagret i skyen, og du kan eksportere dem til en oversiktlig PDF for å for eksempel kommunisere med banken eller andre investorer. Målet er å ta bort all usikkerhet, og ligge foran i løypa.",
   },
   post: [
     {
@@ -144,7 +145,7 @@ export const SERVICE_DATA = [
 ];
 
 export const COMPANY_DATA = {
-  title: "Companies who worked with us proudly",
+  title: "Gründerne bak Utleieoversikten kan du finne igjen i eiendomsartikler hos:",
   images: [
     {
       src: company1,
@@ -181,6 +182,7 @@ export const SECURE_DASHBOARD_DATA = {
     },
     {
       icon: secure2,
+      image: secure2Image,
       title: "Finansielt Dashboard",
       text: "Få innsikt i sanntid i din eiendomsporteføljes prestasjon og ytelse",
     },
@@ -190,7 +192,7 @@ export const SECURE_DASHBOARD_DATA = {
 export const COUNTER_DATA = {
   blockTitle: {
     title: "Revolusjoner din eiendomsinvesteringsstrategi med Utleieoversikten",
-    text: "Utnytt kraften i vårt avanserte utleiekalkulatorverktøy og finansielle dashbord for å optimalisere din eiendomsportefølje. Propster er designet for å fungere effektivt på alle moderne mobile enheter, og gir deg rask tilgang til dine investeringsdata hvor enn du er",
+    text: "Utnytt kraften i vårt avanserte utleiekalkulatorverktøy og finansielle dashbord for å optimalisere din eiendomsportefølje. Utleieoversikten er designet for å fungere effektivt på alle moderne mobile enheter, og gir deg rask tilgang til dine investeringsdata hvor enn du er",
     button: {
       link: "#",
       label: "Oppdag mer",
@@ -230,19 +232,19 @@ export const TESTIMONIALS_DATA = {
   posts: [
     {
       image: testimonial1,
-      text: "Fantastisk! Jeg kan ikke tro at jeg har full kontroll over eiendomsporteføljen min med Propster. Med deres detaljerte leie kalkulator, er jeg i stand til å vurdere lønnsomheten av utleieeiendommene mine med en moderne og effektiv design.",
+      text: "Fantastisk! Jeg kan ikke tro at jeg har full kontroll over eiendomsporteføljen min med Utleieoversikten. Med deres detaljerte leie kalkulator, er jeg i stand til å vurdere lønnsomheten av utleieeiendommene mine med en moderne og effektiv design.",
       name: "Ola Normann",
       designation: "Eiendomsinvestor",
     },
     {
       image: testimonial2,
-      text: "Utrolig! Med Propster har jeg fått en helt ny oversikt over investeringene mine. Takket være deres omfattende finansielle dashbord, kan jeg nå bruke mine mest brukte eiendomsstyringsverktøy med et moderne og trendende design.",
+      text: "Utrolig! Med Utleieoversikten har jeg fått en helt ny oversikt over investeringene mine. Takket være deres omfattende finansielle dashbord, kan jeg nå bruke mine mest brukte eiendomsstyringsverktøy med et moderne og trendende design.",
       name: "Ola Normann",
       designation: "CEO i RealEstateX",
     },
     {
       image: testimonial3,
-      text: "Wow! Jeg kan ikke tro at jeg har fått så mye innsikt i utleieeiendomsmarkedet med Propster. Med deres markedsdata har jeg kunnet bruke mine mest brukte investeringsstrategier med et moderne og trendende design.",
+      text: "Wow! Jeg kan ikke tro at jeg har fått så mye innsikt i utleieeiendomsmarkedet med Utleieoversikten. Med deres markedsdata har jeg kunnet bruke mine mest brukte investeringsstrategier med et moderne og trendende design.",
       name: "Ola Normann",
       designation: "Kreativ Direktør",
     },

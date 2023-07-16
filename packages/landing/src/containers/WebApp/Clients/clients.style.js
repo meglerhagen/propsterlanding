@@ -4,14 +4,17 @@ const ClientsArea = styled.section`
   background-color: #f7fafa;
   padding-top: 100px;
   padding-bottom: 100px;
+
   @media (max-width: 768px) {
     padding-top: 70px;
     padding-bottom: 50px;
   }
+
   .container {
     border-top: 1px solid #e1e0eb;
     text-align: center;
   }
+
   h4 {
     margin: 0;
     font-weight: normal;
@@ -27,31 +30,24 @@ const ClientsArea = styled.section`
     position: relative;
     top: -15px;
   }
+
   .imageWrap {
     display: flex;
-    flex-wrap: wrap;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     opacity: 0.6;
     margin-top: 45px;
+
     @media (max-width: 851px) {
-      // justify-content: center;
-      // margin-left: -30px;
-      // margin-top: 25px;
-      // img {
-      //   margin-left: 30px;
-      //   margin-bottom: 20px;
-      // }
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      grid-gap: 20px;
-    }
-    @media (max-width: 767px) {
-      grid-template-columns: repeat(2, 1fr);
+      justify-content: center;
+      margin-top: 25px;
     }
   }
+
   .client-image-wrapper {
     cursor: pointer;
+    margin: 0 10px;
+
     &:hover {
       animation: var(--wobbleVertical);
     }
