@@ -31,6 +31,7 @@ const WebApp = () => {
           <meta name="theme-color" content="#2563FF" />
           <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700" rel="stylesheet" />
           <meta name="keywords" content="Eiendom, Eiendomsporteføljeoversikt, Investering, Porteføljekalkulator, Nøkkeltall" />
+          <script async src="https://www.googletagmanager.com/gtag/js?id=G-87K3PBNPKS"></script>
         </Head>
         {/* end of head */}
 
