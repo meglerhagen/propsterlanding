@@ -52,12 +52,12 @@ const WebApp = () => {
             <Services />
             <Clients />
             <SecureDashboard />
+            <Pricing />
             <Counter />
-            {/* <Testimonials />
-            <Pricing /> */}
+            {/* <Testimonials /> */}
             {/* <CustomerSupport /> */}
-            {/* <Blog />
-            <CallToAction /> */}
+            {/* <Blog /> */}
+            {/* <CallToAction /> */}
             <Footer />
           </ContentWrapper>
         </AppWrapper>

@@ -35,17 +35,17 @@ const Pricing = () => {
     <PricingArea id="pricing_section">
       <Container className="Container">
         <TopHeading>
-          <Heading as="h2" content="Meet our exiciting Pricing Plan" />
+          <Heading as="h2" content="Utforsk vår attraktive prisplan" />
         </TopHeading>
         <Box className="priceFilter">
-          <span>Monthly</span>
+          <span>Månedlig</span>
           <Switch
             switchColor="#fff"
             labelText=""
             labelPosition="left"
             onChange={dataHandle}
           />
-          <span>Yearly</span>
+          <span>Årlig</span>
         </Box>
         {state.toggle === false && (
           <Row>

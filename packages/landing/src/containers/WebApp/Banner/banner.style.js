@@ -40,6 +40,8 @@ const BannerArea = styled.section`
     letter-spacing: -2px;
     color: #ffffff;
     margin-bottom: 20px;
+    position: relative; 
+    z-index: 1; 
     @media (max-width: 1600px) {
       font-size: 40px;
       max-width: 414px;

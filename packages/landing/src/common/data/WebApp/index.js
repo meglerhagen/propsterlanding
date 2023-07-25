@@ -250,61 +250,32 @@ export const TESTIMONIALS_DATA = {
     },
   ],
 };
-
 export const MONTHLY_PRICING_DATA = [
   {
-    recommended: false,
+    recommended: true,
     title: "Basis",
-    price: "299kr",
-    tagline: "med begrensninger",
-    planLabel: "Planen inkluderer:",
+    price: "349kr",
+    tagline: "Månedlig",
+    planLabel: "Tilgang til Utleieoversikten:",
     options: [
       {
-        text: "Beregne lønnsomhet for opptil 5 eiendommer.",
+        text: "Ubegrenset beregning av lønnsomhet for eiendommer",
       },
       {
         text: "Standard finansiell dashboard.",
       },
       {
-        text: "Tilgang til basis markedsdata.",
-      },
-      {
-        text: "Tilgang til basis markedsdata.",
-      },
-      {
-        text: "Tilgang til basis markedsdata.",
-      },
-    ],
-    button: {
-      label: "Start 14 dagers gratis prøveperiode",
-      link: "https://app.utleieoversikten.no/register/",
-    },
-  },
-  {
-    recommended: true,
-    title: "Pro",
-    price: "449kr",
-    tagline: "Månedlig",
-    planLabel: "Planen inkluderer:",
-    options: [
-      {
-        text: "Ubegrenset beregning av lønnsomhet for eiendommer.",
-      },
-      {
-        text: "Utvidet finansiell dashboard.",
-      },
-      {
         text: "Tilgang til detaljert markedsdata.",
       },
       {
-        text: "Separat bygningsside for hver eiendom.",
+        text: "Separat bygningsside for hver eiendom",
       },
       {
         text: "Prioritert kundestøtte.",
       },
     ],
     button: {
-      label: "Start 14 dagers gratis prøveperiode",
+      label: "Start 7 dagers gratis prøveperiode",
       link: "https://app.utleieoversikten.no/register/",
     },
   },
@@ -312,58 +283,30 @@ export const MONTHLY_PRICING_DATA = [
 
 export const YEARLY_PRICING_DATA = [
   {
-    recommended: false,
+    recommended: true,
     title: "Basis",
-    price: "199kr",
-    tagline: "med begrensninger",
+    price: "3999kr",
+    tagline: "Årlig",
     planLabel: "Planen inkluderer:",
     options: [
       {
-        text: "Beregne lønnsomhet for opptil 5 eiendommer.",
+        text: "Ubegrenset beregning av lønnsomhet for eiendommer",
       },
       {
         text: "Standard finansiell dashboard.",
       },
       {
-        text: "Tilgang til basis markedsdata.",
-      },
-      {
-        text: "Tilgang til basis markedsdata.",
-      },
-      {
-        text: "Tilgang til basis markedsdata.",
-      },
-    ],
-    button: {
-      label: "Start 14 dagers gratis prøveperiode",
-      link: "https://app.utleieoversikten.no/register/",
-    },
-  },
-  {
-    recommended: true,
-    title: "Pro",
-    price: "3199kr",
-    tagline: "Årlig",
-    planLabel: "Planen inkluderer:",
-    options: [
-      {
-        text: "Ubegrenset beregning av lønnsomhet for eiendommer.",
-      },
-      {
-        text: "Utvidet finansiell dashboard.",
-      },
-      {
         text: "Tilgang til detaljert markedsdata.",
       },
       {
-        text: "Separat bygningsside for hver eiendom.",
+        text: "Separat bygningsside for hver eiendom",
       },
       {
         text: "Prioritert kundestøtte.",
       },
     ],
     button: {
-      label: "Start 14 dagers gratis prøveperiode",
+      label: "Start 7 dagers gratis prøveperiode",
       link: "https://app.utleieoversikten.no/register/",
     },
   },
@@ -469,19 +412,19 @@ export const FOOTER_DATA = {
   logo: footerLogo,
   menu: [
     {
-      link: "#",
+      link: "www.codenord.no",
       label: "Support",
     },
+    // {
+    //   link: "#",
+    //   label: "Om oss",
+    // },
+    // {
+    //   link: "#",
+    //   label: "Personvern",
+    // },
     {
-      link: "#",
-      label: "Om oss",
-    },
-    {
-      link: "#",
-      label: "Personvern",
-    },
-    {
-      link: "#",
+      link: "mailto: hei@utleieoversikten.no",
       label: "Kontakt oss",
     },
   ],

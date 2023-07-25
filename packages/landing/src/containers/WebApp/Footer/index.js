@@ -25,7 +25,7 @@ const Footer = () => {
             </Link>
           ))}
         </Box>
-        <Box className="social">
+        {/* <Box className="social">
           <Text as="span" content="Social:" />
           {social.map(({ icon, link }, index) => (
             <Link href={link} key={`footer-social-link-${index}`}>
@@ -34,7 +34,7 @@ const Footer = () => {
               </a>
             </Link>
           ))}
-        </Box>
+        </Box> */}
       </Container>
     </FooterArea>
   );

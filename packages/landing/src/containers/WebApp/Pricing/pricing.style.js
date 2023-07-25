@@ -2,7 +2,7 @@ import themeGet from '@styled-system/theme-get';
 import styled from 'styled-components';
 
 const PricingArea = styled.section`
-  padding-top: 150px;
+  padding-top: 100px;
   padding-bottom: 150px;
   background-image: linear-gradient(
     180deg,
