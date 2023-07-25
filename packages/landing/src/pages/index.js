@@ -20,6 +20,7 @@ import Head from 'next/head';
 import React from 'react';
 import Sticky from 'react-stickynode';
 import { ThemeProvider } from 'styled-components';
+import Script from 'next/script';
 
 const WebApp = () => {
   return (
