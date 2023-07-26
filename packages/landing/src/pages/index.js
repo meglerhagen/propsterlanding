@@ -27,7 +27,7 @@ const WebApp = () => {
       <>
         <Head>
           <title>Utleieoversikten -  Det ultimate verktøyet for å ha oversikt over eiendomsporteføljen</title>
-          <meta name="Description" content="I en investeringsverden vil alle parameterne som bygger opp porteføljen din vil svinge - Porteføljekalkulatoren vår vil la deg ha full kontroll og muligheten til å modelere dagens nøkkeltall samt svingninger som vil påvirke eiendomsporteføljen din i fremtiden." />
+          <meta name="Description" content="I en investeringsverden vil alle parameterne som bygger opp porteføljen din svinge - Porteføljekalkulatoren vår vil la deg ha full kontroll og muligheten til å modelere dagens nøkkeltall samt svingninger som vil påvirke eiendomsporteføljen din i fremtiden." />
           <meta name="theme-color" content="#2563FF" />
           <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700" rel="stylesheet" />
           <meta name="keywords" content="Eiendom, Eiendomsporteføljeoversikt, Investering, Porteføljekalkulator, Nøkkeltall" />

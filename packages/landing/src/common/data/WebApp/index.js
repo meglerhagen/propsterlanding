@@ -74,7 +74,7 @@ import testimonialBlockImage from "common/assets/image/webApp/testimonials-block
 export const BANNER_DATA = {
   title:
     "Det ultimate verktøyet for å ha oversikt over alle nøkkeltall i eiendomsporteføljen",
-  text: "I en investeringsverden vil alle parameterne som bygger opp porteføljen din vil svinge. Porteføljekalkulatoren vår vil la deg ha full kontroll og muligheten til å modelere dagens nøkkeltall samt svingninger som vil påvirke eiendomsporteføljen din i fremtiden",
+  text: "I en investeringsverden vil alle parameterne som bygger opp porteføljen din svinge. Porteføljekalkulatoren vår vil la deg ha full kontroll og muligheten til å modelere dagens nøkkeltall samt svingninger som vil påvirke eiendomsporteføljen din i fremtiden",
   tagline: "*Ingen kort påkrevd",
   button: {
     label: "Prøv gratis nå",
@@ -118,7 +118,7 @@ export const FEATURE_DATA = {
 
 export const VIDEO_DATA = {
   title: "Møt Morten, Daglig Leder",
-  videoID: "ScMzIvxBSi4",
+  videoID: "ueLuRQchqbU",
 };
 
 export const SERVICE_DATA = [
