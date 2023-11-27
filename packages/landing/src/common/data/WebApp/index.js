@@ -118,7 +118,7 @@ export const FEATURE_DATA = {
 
 export const VIDEO_DATA = {
   title: "Møt Morten, Daglig Leder",
-  videoID: "ueLuRQchqbU",
+  videoID: "P3gUq8It0Bg",
 };
 
 export const SERVICE_DATA = [
@@ -254,7 +254,7 @@ export const MONTHLY_PRICING_DATA = [
   {
     recommended: true,
     title: "Basis",
-    price: "349kr",
+    price: "0kr",
     tagline: "Månedlig",
     planLabel: "Tilgang til Utleieoversikten:",
     options: [
@@ -275,7 +275,7 @@ export const MONTHLY_PRICING_DATA = [
       },
     ],
     button: {
-      label: "Start 7 dagers gratis prøveperiode",
+      label: "Det er selvsagt gratis, registrer deg!",
       link: "https://app.utleieoversikten.no/register/",
     },
   },
@@ -285,7 +285,7 @@ export const YEARLY_PRICING_DATA = [
   {
     recommended: true,
     title: "Basis",
-    price: "3999kr",
+    price: "0r",
     tagline: "Årlig",
     planLabel: "Planen inkluderer:",
     options: [
@@ -411,10 +411,10 @@ export const CALL_TO_ACTION_DATA = {
 export const FOOTER_DATA = {
   logo: footerLogo,
   menu: [
-    {
-      link: "www.codenord.no",
-      label: "Support",
-    },
+    // {
+    //   link: "www.codenord.no",
+    //   label: "Support",
+    // },
     // {
     //   link: "#",
     //   label: "Om oss",
